@@ -25,9 +25,9 @@ As a proxy for home prices, the S&P **Case-Shiller Index** is used.
 
 Data for all the variables is downloaded, preprocessed, and combined to create a dataset using the **Extract Transform Load (ETL)** method. Data for different variables had different frequencies.
 
+-------------------------------------------------------------------------------
 
-
-**Datasets used ***
+**Datasets used***
 
 Given here  are the links to the databases I have used for the creation of the entire process of house trends that affect prices
 
@@ -59,11 +59,10 @@ Here is the link for working age https://fred.stlouisfed.org/series/LFWA64TTUSM6
 
 Here is the link for urban population https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?end=2023&locations=US&start=2000
 
+---------------------------------------------------------------------------------------------------------------------------
 
-There fore this ends the total amount of data that have been collected from publicly available data
 
-
-Why eda  https://medium.com/dataseries/an-eda-checklist-800beeaee555
+Why eda:  https://medium.com/dataseries/an-eda-checklist-800beeaee555
 
 Here are the articles that I took reference to  understand how to read the data and collinearity 
  https://medium.com/@rokaandy/python-data-visualization-heatmaps-79fa7506c410
@@ -72,12 +71,22 @@ https://www.quanthub.com/how-to-read-a-correlation-heatmap/
 
 Histogram :- https://www.labxchange.org/library/items/lb:LabXchange:10d3270e:html:1
 
-What have I faced ? 
+-----------------------------------------------------------------------------------------------------------------
+## Questions & Challenges i faced 
 
-How do I make the visualisation interactive and dynamic there’s d3 and chart.js I could use but Figma too how is the thing related to product what should I keep in mind to make things simpler
+How do I make the visualisation interactive and dynamic there’s d3 and chart.js , plotly amd I could use Figma to make designs but  how is the thing related to product what should I keep in mind to make things simpler
 
-How do I represent data in Figma , where do I input the dynamic data how should I represent
+How do I represent data in Figma , where do I input the dynamic data how should I represent? what exactly can i learn from the design perspective ? how do i begin to create a figma design ? 
 
+to answer these questions: i spoke with ui/ux designers and looked dribbble for inspiration
+
+
+apparently there was this plugin at figma which was called as locofy ( which turned designs to code for creating websites ) apparently by the time i was abel to complete this end to end it turned out to be paid. 
+
+
+so for the websites i am looking at webflow and framer
+
+--------------------------------------------------------------------------------------------------------------------------
 
 **Articles** used for understanding the factors 
 
@@ -89,4 +98,14 @@ https://point.com/blog/factors-that-affect-home-prices
 https://www.economicshelp.org/blog/377/housing/factors-that-affect-the-housing-market/
 https://fortune.com/2023/11/19/housing-prices-predictions-market-outlook-recession/
 https://www.inc.com/inc-masters/how-the-us-presidential-election-may-impact-real-estate.html
-  
+
+----------------------------------------------------------------------------------------
+
+## Conclusion
+
+
+Given here is the evaluation metrics that i could get from the comparison between the models 
+
+![comparisions](https://github.com/user-attachments/assets/a77ea9ca-7478-4501-9e7e-ab9e66d3caf0)
+
+![output of the model](https://github.com/user-attachments/assets/63230c52-b7b9-44bf-9dc1-a6e155e57ce9)
