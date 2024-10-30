@@ -106,6 +106,7 @@ https://www.inc.com/inc-masters/how-the-us-presidential-election-may-impact-real
 
 Given here is the evaluation metrics that i could get from the comparison between the models 
 
-![comparisions](https://github.com/user-attachments/assets/a77ea9ca-7478-4501-9e7e-ab9e66d3caf0)
+![predictions](https://github.com/user-attachments/assets/553cf6ca-f095-43dd-99ec-04676115c2c5)
+
 
 ![output of the model](https://github.com/user-attachments/assets/63230c52-b7b9-44bf-9dc1-a6e155e57ce9)
